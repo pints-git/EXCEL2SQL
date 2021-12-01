@@ -1,2 +1,2 @@
 # EXCEL2SQL
-Excel data extraction and uploading to SQL server database using excel macro application
+Excel data extraction and uploading to SQL server database using excel macros application
